@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156668196528",
+    "project_id": "connect-messenger-cb20c",
+    "storage_bucket": "connect-messenger-cb20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156668196528:android:387d04da96b78216ec2d75",
+        "android_client_info": {
+          "package_name": "com.example.connectmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156668196528-2nlsonri56e18g00b09njj2i1kh2j64j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTvRZsk9_GeV3hdzXrY8wUHdimRyu18Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156668196528-2nlsonri56e18g00b09njj2i1kh2j64j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
